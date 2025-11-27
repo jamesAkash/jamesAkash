@@ -30,19 +30,6 @@
 
 ---
 
-### ✨ Mini Animation Preview
-![Demo GIF](./assets/demo.gif)
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jamesAkash&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamesAkash&theme=radical" height="160" />
-</p>
-
----
-
 ## 🎨 Fun Stuff
 - 💬 I love debug sessions that turn into life lessons
 - 🤯 I use `console.log` like it's a lifestyle
