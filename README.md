@@ -1,22 +1,26 @@
 
+<div style="background:#0d1117; padding: 30px 0; border-radius: 12px;">
+
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
-<h1 align="center">Hey, I'm Akash 👋</h1>
+<h1 align="center" style="color:#ffffff;">Hey, I'm Akash 👋</h1>
 
-<p align="center">
+<p align="center" style="color:#9ca3af; font-size:16px;">
   I build things for the web, break them, and then fix them better 😄  
 </p>
 
+</div>
+
 ---
 
-## 🚀 About Me
-- ⚛️ Frontend dev who loves **React + TypeScript + Tailwind**
-- 🪄 Obsessed with **smooth UI**, animations, and Framer Motion
-- 💡 Always tinkering with new ideas + AI experiments
-- 🛠 Currently learning: **AI Engineering, Full-stack dev**  
-- 🌱 Mission: Make everything look cooler than it needs to be
+## About Me
+-  Frontend dev who loves **React + TypeScript + Tailwind**
+-  Obsessed with **smooth UI**, animations, and Framer Motion
+-  Always tinkering with new ideas + AI experiments
+-  Currently learning: **AI Engineering, Full-stack dev**  
+-  Mission: Make everything look cooler than it needs to be
 
 ---
 
@@ -25,14 +29,14 @@
 
 ---
 
-## 🎨 Fun Stuff
-- 💬 I love debug sessions that turn into life lessons
-- 🤯 I use `console.log` like it's a lifestyle
-- ⚡ Fun fact: My UI works 99% of the time. The other 1% is "refresh & pray"
+##  Fun Stuff
+-  I love debug sessions that turn into life lessons
+-  I use `console.log` like it's a lifestyle
+-  Fun fact: My UI works 99% of the time. The other 1% is "refresh & pray"
 
 ---
 
-## 📫 Connect
+## Connect
 <p>
   <a href="https://www.linkedin.com/in/your-profile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
