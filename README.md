@@ -1,17 +1,15 @@
 
-<div style="background:#0d1117; padding: 30px 0; border-radius: 12px;">
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
-<h1 align="center" style="color:#ffffff;">Hey, I'm Akash 👋</h1>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
 
-<p align="center" style="color:#9ca3af; font-size:16px;">
-  I build things for the web, break them, and then fix them better 😄  
-</p>
+## Hey, I'm Akash 👋  
+I build things for the web, break them, and fix them better 😄
 
 </div>
+
 
 ---
 
